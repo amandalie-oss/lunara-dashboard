@@ -90,4 +90,4 @@ export function fmt(iso) {
 }
 
 export function fmtFull(iso) {
-  return new Date(iso).toLocaleString();
+  return new Date(iso).toLocaleString();}
